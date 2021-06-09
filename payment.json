@@ -1,0 +1,24 @@
+{
+  "payments": [
+    {
+      "type": "PHYSICAL_PRODUCT",
+      "name": "Mobile"
+    },
+    {
+      "type": "BOOK",
+      "name": "C++"
+    },
+    {
+      "type": "MEMBERSHIP",
+      "name": "Gold"
+    },
+    {
+      "type": "MEMBERSHIP_UPGRADE",
+      "name": "Platinum"
+    },
+    {
+      "type": "VIDEO",
+      "name": "Learning to Ski"
+    }
+  ]
+}
